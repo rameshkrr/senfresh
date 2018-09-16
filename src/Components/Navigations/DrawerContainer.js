@@ -67,8 +67,7 @@ const styles = StyleSheet.create({
     alignItems:'center',
     resizeMode:'contain',
     justifyContent:'center',
-    borderBottomWidth:1,
-    borderBottomColor:'#333'
+    
   },
   container2:{
       marginTop:-40
